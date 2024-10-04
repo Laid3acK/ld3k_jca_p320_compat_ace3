@@ -10,3 +10,5 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3029401059
 - Add M1152 9x19mm 115gr FMJ (Full Metal Jacket) according to Sig Sauer datas: 361 m/s (1185fps) barrel length 4.0" ± 1/16" (± 3.9375", 4.0625").
 - Add M1153 9x19mm 147gr JHP (Jacketed Hollow Point) according to Sig Sauer datas: 300m/s (985fps) barrel length 4.0" ± 1/16" (± 3.9375", 4.0625").
 - Add "ACE_ScopeHeightAboveRail" from ACE3 "checkScopes.sqf".
+
+Bohemia Interactive forum's download links: https://forums.bohemia.net/forums/topic/288643-jca-p320-compat-ace3/
